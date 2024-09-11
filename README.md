@@ -21,6 +21,16 @@
 
 <br>
 
+## 💡동작 환경
+OS: macOS Catalina 10.15.7/Windows 10  
+CPU: macOS:2.9GHz Intel Core i7, Windows:3.7GHz Intel Core i7  
+메모리: macOS:16GB 2133MHz LPDDR3, Windows:16GB  
+GPU: 없음  
+Python: 3.8  
+Numpy: 1.9.3  
+matplotlib: 3.2.2  
+<br>
+
 ## 💡문의 및 정오표
 - [문의](mailto:Support@youngjin.com)
 - [정오표](https://www.youngjin.com/Artyboard/mboard.asp?strBoardID=errata)
